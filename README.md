@@ -14,5 +14,4 @@ I build around what I know and care about: sport, movement and education. Being 
 
 I build with AI (Claude Code) as the implementer and myself as product owner and reviewer. Specs and acceptance criteria come first, decisions get written down, and where quality can be checked in code, it is — tests, static analysis, and deterministic checks on AI output rather than trusting it blindly.
 
-**Stack I work with:** TypeScript · Next.js · Astro · Vue · Laravel · Tailwind · Supabase
 
