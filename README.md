@@ -7,7 +7,7 @@ I build around what I know and care about: sport, movement and education. Being 
 **What I'm building**
 
 - **BeweegKlaar** — AI-assisted lesson planning for PE and sports students. The idea: a first draft in seconds, with the AI's assumptions made visible and its output checked against subject-specific rules. Currently in development and working on output quality. *(private, commercial — case study coming soon)*
-- **Movva** — the workout tracker I built for my own training, open to anyone who wants to use it. A deterministic progression engine tells you what to lift next time. Built module by module from written specs.
+- **Movva** — the workout tracker I built for my own training, open to anyone who wants to use it. A deterministic progression engine tells you what to lift next time. Built module by module from written specs. *(private, commercial — case study coming soon)*
 - **Coachboard** — a free digital tactics board for handball coaches: draw a play, share it as a link or QR code, and the whole team has it on their phone.
 
 **How I work**
